@@ -29,8 +29,13 @@ Analyzed most effective sales channels
 Provided insights for data-driven decision making
 
 
-![Dashboard Screenshot](Dashboard.png)
+## 📊 Dashboard Preview
 
-![Dashboard Screenshot](Customer And Regional Insights.png)
+### 🔹 Executive Overview
+![Dashboard](Dashboard.png)
 
-![Dashboard Screenshot](Year Wise Performence Analysis.png)
+### 🔹 Customer & Regional Insights
+![Insights](Customer And Regional Insights.png)
+
+### 🔹 Year-wise Performance
+![Year Analysis](Year Wise Performance Details.png)
