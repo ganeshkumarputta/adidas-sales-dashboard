@@ -27,3 +27,7 @@ Identified top-performing retailers and cities
 Analyzed most effective sales channels
 
 Provided insights for data-driven decision making
+
+
+![Dashboard Screenshot](Dashboard.png)
+
