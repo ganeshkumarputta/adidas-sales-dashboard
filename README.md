@@ -38,4 +38,4 @@ Provided insights for data-driven decision making
 ![Insights](Customer_And_Regional_Insights.png)
 
 ### 🔹 Year-wise Performance
-![Year Analysis](Year Wise Performance Details.png)
+![Year Analysis](Year_Wise_Performence_Details.png)
