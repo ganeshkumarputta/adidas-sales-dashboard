@@ -31,3 +31,6 @@ Provided insights for data-driven decision making
 
 ![Dashboard Screenshot](Dashboard.png)
 
+![Dashboard Screenshot](Customer And Regional Insights.png)
+
+![Dashboard Screenshot](Year Wise Performence Analysis.png)
